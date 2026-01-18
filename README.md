@@ -24,4 +24,4 @@ This game was a university second year project. We were tasked with making a tex
 
 ## Preview 
 
-![TrappedScreenshot](./.idea/ScreenShots/Trapped1.jpg) ![TrappedScreenshot](./.idea/ScreenShots/Trapped2.jpg)
+![TrappedScreenshot](./.idea/ScreenShots/Trapped1.jpg) ![TrappedScreenshot](./.idea/ScreenShots/Trapped2.png)
